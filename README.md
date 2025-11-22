@@ -86,6 +86,3 @@ Import the file included in the project:
 
 blueocean.postman_collection.json
 
-```
-
-```
