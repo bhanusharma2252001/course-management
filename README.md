@@ -72,17 +72,11 @@ Server will run at:
 http://localhost:3000
 ```
 
----
+Postman Collection
 
-```
+Import the file included in the project: blueoceanpostman_collection.json
 
----
 
-## Postman Collection
 
-Import the file included in the project:
 
-```
-
-blueocean.postman_collection.json
 
